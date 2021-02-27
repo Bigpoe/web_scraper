@@ -1,0 +1,6 @@
+venv/
+.DS_Store
+202*
+__pycache__/
+basic_web_scraper.code-workspace
+xpath.txt
